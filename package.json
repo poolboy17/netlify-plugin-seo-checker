@@ -1,0 +1,8 @@
+{
+  "name": "netlify-plugin-seo-checker",
+  "version": "1.0.0",
+  "description": "Netlify build plugin that scans built HTML for SEO issues — missing meta descriptions, broken internal links, missing alt tags, orphan pages, and thin content.",
+  "main": "index.js",
+  "keywords": ["netlify", "netlify-plugin", "seo", "audit"],
+  "license": "MIT"
+}
